@@ -4,7 +4,7 @@ Dolan Speak is translator web app which translates the english sentances to dola
 
 🔗Live Link🔗 [Dolan Translator App](https://dolan-translator-app.netlify.app/)
 
-> Note: This project was build by me from scratch. It is markSeven project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markSeven project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
